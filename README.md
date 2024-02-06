@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Osman</h1>
 <h3 align="center">Full-Stack Developer</h3>
-<img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb pT0Scc KAlRDb" role="" aria-label="" alt="Enes" data-noaft="1" align="right" style="width: 465px; height: 345.844px; margin: 0px;">
+<img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb pT0Scc KAlRDb" role="" aria-label="" alt="osmankayi" data-noaft="1" align="right" style="width: 400px; height: 300px; margin: 0px;">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osmankayi&label=Profile%20views&color=0e75b6&style=flat" alt="osmankayi" /> </p>
+<div align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=osmankayi&label=Profile%20views&color=0e75b6&style=flat" alt="osmankayi" />
+  <img src="https://wakatime.com/badge/user/6d6bf9be-29c2-40d4-b3f4-ff5954c597c5.svg" alt="osmankayi" /> 
+</div>
 
 - 🔭 I’m currently working as **Freelancer**
 
 - 🌱 I’m currently learning **Vuejs, Quasar**
 
-- 📫 How to reach me **osmankayi06@gmail.com**
+- 📫 Reach me on **osmankayi06@gmail.com**
 
 - 🌐 My website [**osmankayi.com**](https://osmankayi.com)
 
