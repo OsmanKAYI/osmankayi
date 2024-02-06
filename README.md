@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osman</h1>
+<h1 align="center">Hi 👋, I'm OSMAN</h1>
 <h3 align="center">Full-Stack Developer</h3>
 <img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb pT0Scc KAlRDb" role="" aria-label="" alt="osmankayi" data-noaft="1" align="right" style="width: 400px; height: 300px; margin: 0px;">
 
