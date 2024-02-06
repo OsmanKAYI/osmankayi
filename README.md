@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as **Freelancer**
 
-- 🌱 I’m currently learning **Vuejs, Quasar**
+- 🌱 I’m currently using **Vuejs, Quasar**
 
 - 📫 Reach me on **osmankayi06@gmail.com**
 
