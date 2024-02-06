@@ -7,11 +7,11 @@
   <img src="https://wakatime.com/badge/user/6d6bf9be-29c2-40d4-b3f4-ff5954c597c5.svg" alt="osmankayi" /> 
 </div>
 
-- 🔭 I’m currently working as **Freelancer**
+- 🔭 I’m working as **Freelancer**
 
-- 🌱 I’m currently using **Vuejs, Quasar**
+- 🌱 I’m currently using **Vuejs, Quasar, PHP**
 
-- 📫 Reach me on **osmankayi06@gmail.com**
+- 📫 Reach me at **osmankayi06@gmail.com**
 
 - 🌐 My website [**osmankayi.com**](https://osmankayi.com)
 
