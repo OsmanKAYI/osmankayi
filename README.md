@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmankayi&label=Profile%20views&color=0e75b6&style=flat" alt="osmankayi" /> </p>
 
-- 🔭 I’m currently working on **Home**
+- 🔭 I’m currently working as **Freelancer**
 
 - 🌱 I’m currently learning **Vuejs, Quasar**
 
 - 📫 How to reach me **osmankayi06@gmail.com**
 
-- 📫 My website [**osmankayi.com**](https://osmankayi.com)
+- 🌐 My website [**osmankayi.com**](https://osmankayi.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/OsmanKAYI/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmankayi/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/osman-kayi-0761aa173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmankayi/" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osmankayi&show_icons=true&locale=en&layout=compact" alt="osmankayi" /></p>
