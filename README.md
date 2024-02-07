@@ -42,6 +42,11 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
 
+ <div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <img src="https://github-profile-trophy.vercel.app/?username=osmankayi&column=10"/>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/osman-kayi-0761aa173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmankayi/" height="30" width="40" /></a>
