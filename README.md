@@ -44,7 +44,7 @@
 
  <div>
   <h4>🏆 Github Profile Trophy</h4>
-  <img src="https://github-profile-trophy.vercel.app/?username=osmankayi&column=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=osmankayi&column=3"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
