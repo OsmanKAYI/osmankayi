@@ -52,9 +52,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=osmankayi&column=3&margin-w=15&margin-h=15"/>
 </div>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=osmankayi&show_icons=true&locale=en&layout=compact" alt="osmankayi" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmankayi&layout=donut&theme=gotham" alt="GitHub Stats" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=osmankayi&show_icons=true&locale=en" alt="osmankayi" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=osmankayi&" alt="osmankayi" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=osmankayi&theme=gotham&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></p>
 
