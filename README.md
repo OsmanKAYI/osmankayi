@@ -53,5 +53,4 @@
 </div>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmankayi&layout=donut&theme=gotham" alt="GitHub Stats" /></p>
-
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=osmankayi&theme=gotham&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></p>
